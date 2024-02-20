@@ -2,9 +2,7 @@
 
 ![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
-
-## The challenge
+## Welcome! ๋࣭ ⭑💻
 
 In this front-end development project, my challenge is to create a Social Media Dashboard with a theme switcher feature, aiming to closely match the provided design. I have the freedom to utilize any tools I prefer to accomplish this challenge, allowing for personal practice and experimentation.
 
